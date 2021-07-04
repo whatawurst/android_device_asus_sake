@@ -10,9 +10,6 @@ ifeq ($(WITH_MICROG),true)
 $(call inherit-product, vendor/microg/microg-vendor.mk)
 endif
 
-### DALVIK
-$(call inherit-product, frameworks/native/build/phone-xhdpi-6144-dalvik-heap.mk)
-
 DEVICE_PATH := device/asus/sake
 
 # Device uses high-density artwork where available
