@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-### INHERIT FROM YOSHIRO
+### INHERIT FROM SM8350-COMMON
 include device/asus/sm8350-common/BoardConfigPlatform.mk
 include vendor/asus/sake/BoardConfigVendor.mk
 
