@@ -1,2 +1,5 @@
+# QMI
+system/etc/sysconfig/qti_whitelist.xml
+
 # WIFI_DISPLAY
 -system/framework/WfdCommon.jar
