@@ -1,3 +1,44 @@
+# CAMERA
+system/lib64/libarcsoft_beautyshot.so
+system/lib64/libarcsoft_bokehplus_image_rear.so
+system/lib64/libarcsoft_bokehplus_video.so
+system/lib64/libarcsoft_face_detection.so
+system/lib64/libarcsoft_face_tracking.so
+system/lib64/libarcsoft_fringe_remove.so
+system/lib64/libarcsoft_hdr.so
+system/lib64/libarcsoft_low_light_shot.so
+system/lib64/libarcsoft_nighthawk.so
+system/lib64/libarcsoft_picselfie_algorithm.so
+system/lib64/libarcsoft_piczoom.so
+system/lib64/libarcsoft_rer.so
+system/lib64/libarcsoft_scbokeh_image.so
+system/lib64/libarcsoft_scbokeh_video.so
+system/lib64/libarcsoft_superresolution.so
+system/lib64/libcamxtintlessalgo.so
+system/lib64/libxditk_arch.so
+system/lib64/libmpbase.so
+system/lib64/libxditk_DIT_Manager.so
+system/lib64/libxditk_ISP.so
+system/lib64/libxditk_ditArchLIB.so
+system/lib64/libxditk_ditBSP.so
+system/lib64/libxditk_ditBSP_JNI.so
+system/lib64/style.cng
+
+# DPM
+-system/framework/tcmclient.jar
+-system/framework/tcmiface.jar
+
+# NFC
+-system/app/NQNfcNci/NQNfcNci.apk
+system/etc/permissions/com.nxp.nfc.nq.xml
+system/framework/com.nxp.nfc.nq.jar
+system/lib64/libnqnfc-nci.so
+system/lib64/libnqnfc_nci_jni.so
+
+# QCCSYSHAL
+system/lib/hw/vendor.qti.hardware.qccsyshal@1.0-impl.so
+system/lib64/hw/vendor.qti.hardware.qccsyshal@1.0-impl.so
+
 # QMI
 system/etc/sysconfig/qti_whitelist.xml
 
