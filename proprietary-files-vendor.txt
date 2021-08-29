@@ -94,6 +94,7 @@ vendor/lib/libaudio_log_utils.so
 vendor/lib/libdiracgefwrapper.so
 vendor/lib/libeffectsconfig.so
 vendor/lib/libqtigef.so
+vendor/lib/libspkrprot.so
 vendor/lib/libtinycompress.so
 vendor/lib64/hw/audio.primary.lahaina.so
 vendor/lib64/soundfx/libasphere.so
@@ -111,6 +112,7 @@ vendor/lib64/libaudioconfigstore.so
 vendor/lib64/libaudio_log_utils.so
 vendor/lib64/libeffectsconfig.so
 vendor/lib64/libqtigef.so
+vendor/lib64/libspkrprot.so
 vendor/lib64/libtinycompress.so
 
 # AUDIO_ACDBDATA
