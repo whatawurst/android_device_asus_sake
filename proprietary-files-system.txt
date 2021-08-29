@@ -1,3 +1,6 @@
+# BLUETOOTH
+-system/app/aptxals/aptxals.apk
+
 # CAMERA
 system/lib64/libarcsoft_beautyshot.so
 system/lib64/libarcsoft_bokehplus_image_rear.so

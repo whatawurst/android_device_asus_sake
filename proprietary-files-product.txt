@@ -1,0 +1,2 @@
+# POWER_OFF_ ALARM
+-product/app/PowerOffAlarm/PowerOffAlarm.apk
